@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scratcher-fun-referral.vercel.app/sitemap.xml
